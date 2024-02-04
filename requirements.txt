@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+xgboost
+scikit-learn
+optuna
+lightgbm
+
+# Optional
+black
+isort
